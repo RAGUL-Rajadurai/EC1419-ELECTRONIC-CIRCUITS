@@ -1,4 +1,6 @@
 ## EC1419-Electronics Circuits-Lab
+## Name:R.Ragul
+## Reg.no:212225060213
 **EXP NO:1**
 # <img width="847" height="606" alt="image" src="https://github.com/user-attachments/assets/e89cd66c-73d8-4d5b-845a-89e5ed05bd69" />
 
@@ -24,9 +26,13 @@
 
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
-## Tabulation
+## LTspice simulation
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f444e79e-8295-40ef-8bfd-c04dc0ec9b29" />
+
+
 
 ## Graph
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5aaa3a82-0f18-45b9-9270-8c4f57dda3e5" />
 
 
 ## **Result**
